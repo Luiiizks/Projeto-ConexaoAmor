@@ -21,5 +21,9 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('conexaoAmor.urls')),
     path('', include('gotinhas.urls')),
+    #path('users/', include('django.contrib.auth.urls')),
+    #path('users/', include('users.urls'), name='users'),
+    path('usuarios/', include('usuarios.urls')), 
+
 
 ]

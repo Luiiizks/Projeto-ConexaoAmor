@@ -29,13 +29,50 @@ O objetivo do projeto Conexão Amor é buscar garantir que os recursos financeir
 
 https://github.com/marimmbc/ConexaoAmor/assets/137455847/c25f4220-4a0b-4bbd-8533-7cfb9a17c61e
 
+# Screecast do uso da aplicação : <br/>
+[**link do screencast**]( https://drive.google.com/file/d/1CwXIQ8sXfZe65JT-h3E8X9ZTJ8Ghb0ag/view?usp=sharing) <br/>
+
 # Diagrama de atividades do sistema :
 
 ![WhatsApp Image 2023-10-10 at 17 53 55](https://github.com/marimmbc/ConexaoAmor/assets/137455847/fa3daa97-48df-435a-96ba-e204d065c7fc)
 
+
+**Instruções de para instalar o projeto:**
+
+Para configurar o ambiente e iniciar a aplicação, siga os passos abaixo:<br/>
+
+- Instale o Pyhton 11 na sua maquina<br/>
+
+- Clonar o repositório do projeto com o seguinte comando:<br/>
+git clone https://github.com/marimmbc/Projeto-ConexaoAmor
+
+ou, para clonar apenas a versão mais recente:<br/>
+git clone --depth=1 https://github.com/marimmbc/Projeto-ConexaoAmor
+
+- Instale as extensões necessárias no VS Code:<br/>
+Após abrir o VS Code, pesquise e instale as seguintes extensões:<br/>
+
+ms-python.vscode-pylance<br/>
+ms-python.python<br/>
+batisteo.vscode-django<br/>
+
+- Crie um ambiente virtual executando o comando:<br/>
+python -m venv venv
+
+- Ative o ambiente virtual (para Windows) com o seguinte comando:<br/>
+venv\Scripts\activate
+
+- Instale as dependências do projeto a partir do arquivo requirements.txt:<br/>
+pip install -r ./requirements.txt
 
 # Relato da experiência em programação em par experimentado :
 
 Discussão: Ao concluir o projeto, observamos que a programação em par demandou mais tempo do que se cada um de nós tivesse programado individualmente, principalmente devido às discussões frequentes. No entanto, o código resultante revelou-se de alta qualidade, com menos erros e uma estrutura mais sólida. A experiência, embora desafiadora, foi incrivelmente enriquecedora. A colaboração estreita permitiu que trocássemos ideias e aprendêssemos uns com os outros, aprimorando nossos conhecimentos e habilidades.
 
 Considerações Finais: Nossa experiência destacou a importância da programação em par em projetos que exigem alta qualidade e colaboração. Com o tempo, à medida que nos tornamos mais familiarizados com a abordagem e a forma de trabalhar juntos, esperamos que a eficiência melhore. 
+
+Duplas :
+
+- Rubens Filho, Luiz Flavius e Gabriel Pontes: A experiência no programa foi como uma emocionante dança de equilíbrio, onde desafios e oportunidades se entrelaçaram, fazendo-nos aprender e crescer juntos.
+  
+- Gabriel Roma e Mari Correia: Nossa jornada no programa foi como uma viagem através de um labirinto de aprendizado, onde desvendamos desafios e descobrimos tesouros de conhecimento lado a lado.
