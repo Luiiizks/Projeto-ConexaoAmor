@@ -27,8 +27,7 @@ O objetivo do projeto Conexão Amor é buscar garantir que os recursos financeir
 
 # Screecast do protótipo de baixa fidelidade : 
 
-https://github.com/marimmbc/ConexaoAmor/assets/137455847/c25f4220-4a0b-4bbd-8533-7cfb9a17c61e
-
+[**Link do Screencast**](https://drive.google.com/file/d/166w2Li5cE7D92itrLa9f9NiMjzR0L1TB/view?usp=sharing)
 # Screecast do uso da aplicação : <br/>
 [**link do screencast**]( https://drive.google.com/file/d/1CwXIQ8sXfZe65JT-h3E8X9ZTJ8Ghb0ag/view?usp=sharing) <br/>
 
